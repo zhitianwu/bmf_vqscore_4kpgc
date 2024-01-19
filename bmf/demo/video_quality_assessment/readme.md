@@ -15,3 +15,6 @@ By running vqa_demo.py file, you can quickly complete the experience of video qu
     json
     numpy
     onnxruntime
+
+5. notice
+   Algorithm in detail can refer to https://mp.weixin.qq.com/s/EHjMnOkay5gSRGR5W59iqQ, pay attention to the participation of reasoning frame number and the image patch number of every frame, recommend num_crop parameter is set to 15.
